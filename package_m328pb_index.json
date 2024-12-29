@@ -2,8 +2,8 @@
   "packages": [
     {
       "name": "ATmega328PB-incl-Bootloader",
-      "maintainer": "0x6470",
-      "websiteURL": "https://github.com/0x6470/ATmega328PB-Arduino-Nano-Clone-with-Bootloader/",
+      "maintainer": "Qwerrty574",
+      "websiteURL": "https://github.com/Qwerrty574/ATmega328PB-Arduino-Nano-Clone-with-Bootloader",
       "email": "",
       "help": {
         "online": ""
@@ -17,12 +17,12 @@
           "help": {
 	        "online": ""
           },
-          "url": "https://github.com/0x6470/ATmega328PB-Arduino-Nano-Clone-with-Bootloader/raw/master/atmega328pb-with-bootloader.zip",
+          "url": "https://github.com/Qwerrty574/ATmega328PB-Arduino-Nano-Clone-with-Bootloader/raw/refs/heads/master/atmega328pb-with-bootloader.zip",
           "archiveFileName": "atmega328pb-with-bootloader.zip",
 
 
 
-          "checksum": "SHA-256:bf84b72adc83718a4759f4a7f8e1d888cb09ed8f32dfa4c8ffc73cfc2b92fd4f",
+          "checksum": "SHA-256:bbc5692f664fbd883930519f620171c8becd6e8edb4aece19e57ccf6b5f31b7b",
           "size": "82687",
 
           "boards": [
@@ -32,7 +32,7 @@
             {
               "packager": "arduino",
               "name": "avrdude",
-              "version": "8.0-arduino15"
+              "version": "6.3.0-arduino17"
             }
           ]
         }
